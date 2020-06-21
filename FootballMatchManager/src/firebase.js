@@ -6,14 +6,14 @@ import 'firebase/storage';
 
 const firebaseConfig = 
 {
-    apiKey: "AIzaSyCKM79ZRZafTCWvgwnt-BXSSlOPlMts91I",
-    authDomain: "football-matches-d9423.firebaseapp.com",
-    databaseURL: "https://football-matches-d9423.firebaseio.com",
-    projectId: "football-matches-d9423",
-    storageBucket: "football-matches-d9423.appspot.com",
-    messagingSenderId: "780624678460",
-    appId: "1:780624678460:web:ee83ae2ed6820299ddbd39",
-    measurementId: "G-1P5889V163"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 firebase.initializeApp(firebaseConfig);
