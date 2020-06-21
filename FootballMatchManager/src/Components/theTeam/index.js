@@ -82,7 +82,7 @@ class TheTeam extends Component
     }
 
     render()
-    {console.log("2");
+    {
         return (
             <div className="the_team_container"
                 style =
